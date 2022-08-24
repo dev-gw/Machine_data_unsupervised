@@ -67,6 +67,7 @@ def experiment(data):
     print('군집 간 거리:', calculate_outer(center), '군집 내 거리:', calculate_inner(center, data),
     '실루엣 계수:', sil_score)
 
-experiment(ex4)
+if __name__ == 'main':
+    experiment(ex4)
 
 

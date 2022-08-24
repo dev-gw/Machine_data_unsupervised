@@ -10,3 +10,6 @@ ctest:
  
 stest:
 	python3 "/UHome/kgw32395/kgw/silouette_test.py"
+ 
+cnc:
+	python3 "/UHome/kgw32395/kgw/CNC_machine.py" 
