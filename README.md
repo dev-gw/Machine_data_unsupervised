@@ -1,6 +1,6 @@
 # Machine_data_unsupervised
 **Improvement of clustering by using feature extraction**
-* Worked at ETRI
+* Worked at [ETRI](https://ksp.etri.re.kr/ksp/article/read?id=65553)
 * Participate in Summer Conference of IKEEE
 * This files conduct feature extraction and compare performance (Kmeans, BIRCH, GMM etc)
 
